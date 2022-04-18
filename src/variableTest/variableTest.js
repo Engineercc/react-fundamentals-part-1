@@ -1,0 +1,1 @@
+export let greeting = "Test variable hi";
